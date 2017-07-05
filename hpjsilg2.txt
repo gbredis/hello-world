@@ -1,0 +1,2 @@
+0001 - *** SDISDK: Setting logging level to OMEGA ***
+0002 - *** SDISDK: Terminating Logging ***
